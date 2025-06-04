@@ -1,0 +1,14 @@
+[2025-06-02 17:19:10] Arquivo dados_jogos.dat não encontrado. Iniciando com lista vazia para jogos.
+[2025-06-02 17:19:10] Arquivo dados_clientes.dat não encontrado. Iniciando com lista vazia para clientes.
+[2025-06-02 17:19:10] Arquivo dados_funcionarios.dat não encontrado. Iniciando com lista vazia para funcionários.
+[2025-06-02 17:19:10] Arquivo dados_vendas.dat não encontrado. Iniciando com lista vazia para vendas.
+[2025-06-02 17:19:10] Sistema iniciado. Dados carregados.
+[2025-06-02 17:19:46] Todos os dados foram salvos.
+[2025-06-02 17:20:10] Sistema iniciado. Dados carregados.
+[2025-06-02 17:20:23] Funcionário cadastrado: jea (ID: 1) (primeiro cadastro)
+[2025-06-02 17:20:40] Funcionário logado: jea (ID: 1)
+[2025-06-02 17:22:25] Jogo adicionado: cod (ID: 1) por jea
+[2025-06-02 17:23:09] Cliente cadastrado: joao (ID: 1) por jea
+[2025-06-02 17:23:37] Venda realizada: ID 1 para Cliente joao por Funcionário jea. Valor: R$ 700,00
+[2025-06-02 17:23:53] Funcionário deslogado: jea
+[2025-06-02 17:23:59] Funcionário logado: jea (ID: 1)
